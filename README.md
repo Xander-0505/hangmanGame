@@ -1,1 +1,1 @@
-This is just a simple-ish hangman game I made for my final project. it has 3 different modes: Player vs. Computer, Player vs. Friend, and a included word.txt file of 1000 of the most used words. You could replace the txt with your own if you want.
+This is just a simple-ish hangman game I made for my final project. it has 3 different modes: Player vs. Computer, Player vs. Friend, and a included word.txt file of 1000 of the most used words. You could replace the txt file with your own if you want.
